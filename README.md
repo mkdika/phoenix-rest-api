@@ -5,7 +5,7 @@
 Elixir Phoenix Framework REST API demo using it's stack and libraries.
 This project is to mimic my other REST API demo, [Spring Kotlin REST API](https://github.com/mkdika/spring5-kotlin-api).
 
-![elixir-phoenix-image](https://cdn-images-1.medium.com/max/1600/1*HJys_sp0AydmrDCLbBmTJg.png)
+![elixir-phoenix-image](https://i.imgur.com/cEYWFxp.png)
 
 ## Tech Stack
 
